@@ -1,4 +1,4 @@
-Alpine Linux for C.H.I.P.
+Alpine Linux for C.H.I.P. [![Build Status](https://travis-ci.com/MadhbhavikaR/chip-alpine.svg?branch=master)](https://travis-ci.com/MadhbhavikaR/chip-alpine)
 =========================
 
 Nightly builds of Alpine Linux for the C.H.I.P. computer.
